@@ -10,7 +10,7 @@
 I'm a passionate Data Analyst who loves transforming raw data into clean insights and interactive dashboards.  
 Currently improving my skills in Machine Learning and building real projects using Python, SQL & Power BI.
 
-- 📊 Strong in Excel, SQL & Power BI  
+- 📊 Strong in Excel, SQL, python & Power BI  
 - 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-Learn)  
 - 🤖 Interested in ML & Data Automation  
 - 🎯 Consistent learner with big goals  
@@ -59,13 +59,6 @@ Currently improving my skills in Machine Learning and building real projects usi
 - 🔗 **LinkedIn:** https://linkedin.com/in/your-profile  
 - 🐙 **GitHub:** https://github.com/alielrouby229  
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?alielrouby229=Ali-Hamdy-Elrouby&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?alielrouby229=Ali-Hamdy-Elrouby&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
