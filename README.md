@@ -1,28 +1,27 @@
 <h1 align="center">👋 Hey, I'm Ali Elrouby</h1>
 
 <p align="center">
-  <b>Data Analyst | ML & NLP Learner | Python • SQL • Power BI</b>
+  <b>Data Analyst | Python • SQL • Power BI • Excel | ML Learner</b>
 </p>
 
 ---
 
 ## 🌟 About Me  
-I'm a passionate Data Analyst who loves transforming raw messy data into clean insights and smart dashboards.  
-Currently leveling up in Machine Learning & NLP and building real projects during my academic journey.
+I'm a passionate Data Analyst who loves transforming raw data into clean insights and interactive dashboards.  
+Currently improving my skills in Machine Learning and building real projects using Python, SQL & Power BI.
 
 - 📊 Strong in Excel, SQL & Power BI  
-- 🐍 Python lover (Pandas, NumPy, Matplotlib, Scikit-Learn, NLTK)  
-- 🤖 Interested in ML, NLP & automation  
-- 🎯 Big goals, consistent progress, and I'm just getting started  
+- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-Learn)  
+- 🤖 Interested in ML & Data Automation  
+- 🎯 Consistent learner with big goals  
 
 ---
 
 ## 🔥 Current Projects  
-- 🚀 **Sports Data Analysis**: Analyzing real match datasets + goals timing  
-- 📈 **Power BI Dashboards**: Creating clean, interactive dashboards  
-- 🤖 **NLP Mini-Projects**: Text cleaning, sentiment analysis, classification  
-- 🧮 **ML Models**: Regression & classification experiments with real datasets  
-- 🛠 **Automation**: Python scripts to automate repetitive tasks  
+- 🚀 **Sports Data Analysis**: Analyzing real match datasets + goal timing  
+- 📈 **Power BI Dashboards**: Clean, interactive dashboards  
+- 🤖 **ML Models**: Regression & classification with real datasets  
+- 🛠 **Automation**: Python scripts to automate workflows  
 
 ---
 
@@ -40,23 +39,32 @@ Currently leveling up in Machine Learning & NLP and building real projects durin
 
 ### 🎨 BI & Analytics  
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+  <!-- Power BI -->
+  <a href="https://app.powerbi.com/">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
 
 ## 📬 Contact Me  
-- 📩 **Email:** alielrouby229@gmail.com 
-- 🔗 **LinkedIn:** http://www.linkedin.com/in/ali-elrouby-a371ab337
-
+- 📩 **Email:** yourEmail@example.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/your-profile  
+- 🐙 **GitHub:** https://github.com/alielrouby229  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?alielrouby229=Ali-Hamdy-Elrouby&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?alielrouby229=Ali-Hamdy-Elrouby&layout=compact&theme=tokyonight" />
 </p>
 
 ---
