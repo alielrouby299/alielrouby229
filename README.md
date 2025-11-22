@@ -47,9 +47,9 @@ Currently leveling up in Machine Learning & NLP and building real projects durin
 ---
 
 ## 📬 Contact Me  
-- 📩 **Email:** yourEmail@example.com  
-- 🔗 **LinkedIn:** https://linkedin.com/in/your-profile  
-- 🐙 **GitHub:** https://github.com/your-username  
+- 📩 **Email:** alielrouby229@gmail.com 
+- 🔗 **LinkedIn:** http://www.linkedin.com/in/ali-elrouby-a371ab337
+
 
 ---
 
